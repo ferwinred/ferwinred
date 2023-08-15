@@ -19,6 +19,11 @@ Skills:<br />
     <a href="https://www.typescriptlang.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'></a> 
     <a href="https://www.mongodb.com/es"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'></a>  
     <a href="https://sass-lang.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='40'></a> 
+     <a href="https://www.hubspot.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hubspot.svg' alt='hubspot' height='40'></a>
+     <a href="https://www.docker.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'></a>
+     <a href="https://www.nestjs.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nestjs.svg' alt='nestjs' height='40'></a>
+ 
+   
 </div>
 
 <br />
