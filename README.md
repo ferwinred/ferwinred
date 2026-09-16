@@ -1,37 +1,41 @@
-### Hi there 👋, my name is Edwin Arias
-#### I am a Full-Stack Web Developer
-<br/>
-I am a Full-Stack Developer passionate about programming, always available and
-wanting to learn, my experiences helped me to adapt to the IT world,
-being able to work as a team and develop great ideas.
-<br/>
-<br/>
+### Hola 👋 Soy Edwin Arias — Fullstack Developer en camino a Data Engineering
 
-Skills:<br />
-<div width=100%>
-    <a href="https://es.reactjs.org/" ><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'></a>
-    <a href="https://es.redux.js.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/redux.svg' alt='redux' height='40'></a> 
-    <a href="https://www.javascript.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'></a> 
-    <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'></a> 
-    <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'></a> 
-    <a href="https://nodejs.org/es/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/node-dot-js.svg' alt='node-dot-js' height='40'></a> 
-    <a href="https://www.postgresql.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'></a> 
-    <a href="https://www.typescriptlang.org/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'></a> 
-    <a href="https://www.mongodb.com/es"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg' alt='mongodb' height='40'></a>  
-    <a href="https://sass-lang.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/sass.svg' alt='sass' height='40'></a> 
-     <a href="https://www.hubspot.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hubspot.svg' alt='hubspot' height='40'></a>
-     <a href="https://www.docker.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'></a>
-     <a href="https://www.nestjs.com/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nestjs.svg' alt='nestjs' height='40'></a>
- 
-   
-</div>
+Construyo **aplicaciones fullstack** en producción y **pipelines de datos** en mis proyectos. Medellín, Colombia 🇨🇴
 
-<br />
+- 💼 **Trabajo:** APIs con **.NET (C#)**, scripts de **Python** para integración y migración de datos, soporte en **Angular**, **SQL**, despliegues en **AWS** con **Docker** y **GitHub Actions**
+- 🔭 **Proyectos y autoformación:** ingeniería de datos con **Apache Spark (PySpark · Scala)**, **Kafka**, **dbt**, **AWS Glue** y **Athena**; también **Java**, **Spring Boot** y **React**
+- 🌐 [ferwinred.github.io](https://ferwinred.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ferwinarias) · 📫 ferwin.arias@gmail.com
 
-- 🔭 I’m currently working on an academic platform to manage schools, university or any academical organization. 
-- 🌱 I’m currently learning new technologies as Typescript, MongoDB, and AWS; besides i'm learning english. 
+#### ⭐ Proyecto destacado
+**[payments-lakehouse](https://github.com/ferwinred/payments-lakehouse)** — Lakehouse de transacciones de una billetera digital: Kafka → Spark Structured Streaming → bronze / silver / quarantine en Parquet → modelos y tests con dbt sobre DuckDB. Docker Compose, Kubernetes y CI que corre el pipeline completo.
 
-<br/>
+#### Fullstack (trabajo)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ferwinred)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ferwinarias//)   <a href = "mailto: ferwin.arias@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>
+#### Datos (proyectos)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
+#### También
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+
+---
+### Hi 👋 I'm Edwin — Fullstack Developer moving into Data Engineering
+I ship **fullstack apps** at work (.NET · Python · TypeScript · Angular · SQL · AWS · Docker) and build **data pipelines** in my projects (Spark · Kafka · dbt · DuckDB). English: B1.
